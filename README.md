@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Vivek Bhardwaj
 
-<!--
-**Vivek-bhardwaj3232/Vivek-bhardwaj3232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 🎓 B.Tech Student
+- 💻 Full Stack Developer
+- ☕ Java Developer
+- 🌱 Currently Learning DSA & System Design
+- 🚀 Building AI & Full Stack Projects
+- 🎯 Goal: Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Java
+- JavaScript
+- SQL
+
+### Frontend
+- React.js
+- HTML
+- CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 MediConnect
+Healthcare platform for appointment booking and patient management.
+
+### 🎨 ImageForge AI
+AI-powered image generation and enhancement platform.
+
+---
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/Vivek-bhardwaj3232
